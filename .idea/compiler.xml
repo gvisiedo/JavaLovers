@@ -10,8 +10,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Producto1" target="1.5" />
-      <module name="Producto1.1" target="1.5" />
-      <module name="productoMaven" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
